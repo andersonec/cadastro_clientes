@@ -1,0 +1,12 @@
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\bin\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.deps.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\bin\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\bin\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.csproj.AssemblyReference.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.AssemblyInfoInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.AssemblyInfo.cs
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\refint\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\cadastroClientes.Domain.EntitiesDTO.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.EntitiesDTO\obj\Release\net5.0\ref\cadastroClientes.Domain.EntitiesDTO.dll

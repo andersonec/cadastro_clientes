@@ -1,0 +1,24 @@
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.deps.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.csproj.AssemblyReference.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.AssemblyInfoInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.AssemblyInfo.cs
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.csproj.CoreCompileInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\refint\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\ref\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.deps.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.csproj.AssemblyReference.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.AssemblyInfoInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.AssemblyInfo.cs
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\refint\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.Validations\obj\Debug\net5.0\ref\cadastroClientes.Infra.CrossCutting.Validations.dll

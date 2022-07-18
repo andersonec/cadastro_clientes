@@ -1,0 +1,50 @@
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.deps.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Domain.Services.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\refint\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\ref\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.deps.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Domain.Services.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\refint\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.CrossCutting.IoC\obj\Debug\net5.0\ref\cadastroClientes.Infra.CrossCutting.IoC.dll

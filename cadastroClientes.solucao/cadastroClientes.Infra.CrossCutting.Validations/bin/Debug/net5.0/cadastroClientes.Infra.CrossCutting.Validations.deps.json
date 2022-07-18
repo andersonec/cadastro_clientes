@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cadastroClientes.Infra.CrossCutting.Validations/1.0.0": {
+        "runtime": {
+          "cadastroClientes.Infra.CrossCutting.Validations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cadastroClientes.Infra.CrossCutting.Validations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,46 @@
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.Services.deps.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.Services.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.csproj.AssemblyReference.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.AssemblyInfoInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.AssemblyInfo.cs
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.csproj.CoreCompileInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.csproj.CopyComplete
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\refint\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\ref\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.Services.deps.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.Services.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.csproj.AssemblyReference.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.AssemblyInfoInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.AssemblyInfo.cs
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.csproj.CopyComplete
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\refint\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\cadastroClientes.Domain.Services.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Domain.Services\obj\Debug\net5.0\ref\cadastroClientes.Domain.Services.dll

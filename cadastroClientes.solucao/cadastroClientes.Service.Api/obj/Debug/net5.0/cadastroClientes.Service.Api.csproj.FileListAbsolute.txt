@@ -1,0 +1,138 @@
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\appsettings.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.exe
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.deps.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.runtimeconfig.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.runtimeconfig.dev.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Autofac.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Azure.Core.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Azure.Identity.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Domain.Services.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.csproj.AssemblyReference.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.AssemblyInfoInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.AssemblyInfo.cs
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.csproj.CoreCompileInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\scopedcss\bundle\cadastroClientes.Service.Api.styles.css
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\staticwebassets\cadastroClientes.Service.Api.StaticWebAssets.Manifest.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.RazorTargetAssemblyInfo.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.csproj.CopyComplete
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\refint\cadastroClientes.Service.Api.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.genruntimeconfig.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\ref\cadastroClientes.Service.Api.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\appsettings.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.exe
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.deps.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.runtimeconfig.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.runtimeconfig.dev.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Service.Api.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Autofac.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Azure.Core.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Azure.Identity.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Domain.Services.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Domain.Services.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.IoC.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Domain.EntitiesDTO.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Adapter.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.CrossCutting.Validations.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.csproj.AssemblyReference.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.Properties.Resources.resources
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.csproj.GenerateResource.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.AssemblyInfoInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.AssemblyInfo.cs
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\scopedcss\bundle\cadastroClientes.Service.Api.styles.css
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\staticwebassets\cadastroClientes.Service.Api.StaticWebAssets.Manifest.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.RazorTargetAssemblyInfo.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.csproj.CopyComplete
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\refint\cadastroClientes.Service.Api.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\cadastroClientes.Service.Api.genruntimeconfig.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Service.Api\obj\Debug\net5.0\ref\cadastroClientes.Service.Api.dll

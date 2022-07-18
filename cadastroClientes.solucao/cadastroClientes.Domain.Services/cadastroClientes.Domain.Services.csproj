@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\cadastroClientes.Infra.CrossCutting.Adapter\cadastroClientes.Infra.CrossCutting.Adapter.csproj" />
+    <ProjectReference Include="..\cadastroClientes.Infra.CrossCutting.Validations\cadastroClientes.Infra.CrossCutting.Validations.csproj" />
+    <ProjectReference Include="..\cadastroClientes.Infra.Data\cadastroClientes.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,551 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Service.Api\\cadastroClientes.Service.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.EntitiesDTO\\cadastroClientes.Domain.EntitiesDTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.EntitiesDTO\\cadastroClientes.Domain.EntitiesDTO.csproj",
+        "projectName": "cadastroClientes.Domain.EntitiesDTO",
+        "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.EntitiesDTO\\cadastroClientes.Domain.EntitiesDTO.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.EntitiesDTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.Services\\cadastroClientes.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.Services\\cadastroClientes.Domain.Services.csproj",
+        "projectName": "cadastroClientes.Domain.Services",
+        "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.Services\\cadastroClientes.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Adapter\\cadastroClientes.Infra.CrossCutting.Adapter.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Adapter\\cadastroClientes.Infra.CrossCutting.Adapter.csproj"
+              },
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Validations\\cadastroClientes.Infra.CrossCutting.Validations.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Validations\\cadastroClientes.Infra.CrossCutting.Validations.csproj"
+              },
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data\\cadastroClientes.Infra.Data.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data\\cadastroClientes.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Adapter\\cadastroClientes.Infra.CrossCutting.Adapter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Adapter\\cadastroClientes.Infra.CrossCutting.Adapter.csproj",
+        "projectName": "cadastroClientes.Infra.CrossCutting.Adapter",
+        "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Adapter\\cadastroClientes.Infra.CrossCutting.Adapter.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Adapter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.EntitiesDTO\\cadastroClientes.Domain.EntitiesDTO.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.EntitiesDTO\\cadastroClientes.Domain.EntitiesDTO.csproj"
+              },
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data.Entities\\cadastroClientes.Infra.Data.Entities.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data.Entities\\cadastroClientes.Infra.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.IoC\\cadastroClientes.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.IoC\\cadastroClientes.Infra.CrossCutting.IoC.csproj",
+        "projectName": "cadastroClientes.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.IoC\\cadastroClientes.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.Services\\cadastroClientes.Domain.Services.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.Services\\cadastroClientes.Domain.Services.csproj"
+              },
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Adapter\\cadastroClientes.Infra.CrossCutting.Adapter.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Adapter\\cadastroClientes.Infra.CrossCutting.Adapter.csproj"
+              },
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data\\cadastroClientes.Infra.Data.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data\\cadastroClientes.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Validations\\cadastroClientes.Infra.CrossCutting.Validations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Validations\\cadastroClientes.Infra.CrossCutting.Validations.csproj",
+        "projectName": "cadastroClientes.Infra.CrossCutting.Validations",
+        "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Validations\\cadastroClientes.Infra.CrossCutting.Validations.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.Validations\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data.Entities\\cadastroClientes.Infra.Data.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data.Entities\\cadastroClientes.Infra.Data.Entities.csproj",
+        "projectName": "cadastroClientes.Infra.Data.Entities",
+        "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data.Entities\\cadastroClientes.Infra.Data.Entities.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data\\cadastroClientes.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data\\cadastroClientes.Infra.Data.csproj",
+        "projectName": "cadastroClientes.Infra.Data",
+        "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data\\cadastroClientes.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data.Entities\\cadastroClientes.Infra.Data.Entities.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.Data.Entities\\cadastroClientes.Infra.Data.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Service.Api\\cadastroClientes.Service.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Service.Api\\cadastroClientes.Service.Api.csproj",
+        "projectName": "cadastroClientes.Service.Api",
+        "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Service.Api\\cadastroClientes.Service.Api.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Service.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.Services\\cadastroClientes.Domain.Services.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Domain.Services\\cadastroClientes.Domain.Services.csproj"
+              },
+              "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.IoC\\cadastroClientes.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\PROJETOS\\Cadastro de Clientes\\cadastro_clientes\\cadastroClientes.solucao\\cadastroClientes.Infra.CrossCutting.IoC\\cadastroClientes.Infra.CrossCutting.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

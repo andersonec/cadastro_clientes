@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cadastroClientes.Domain.EntitiesDTO/1.0.0": {
+        "runtime": {
+          "cadastroClientes.Domain.EntitiesDTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cadastroClientes.Domain.EntitiesDTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,30 @@
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.deps.json
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.csproj.AssemblyReference.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.AssemblyInfoInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.AssemblyInfo.cs
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.csproj.CoreCompileInputs.cache
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.csproj.CopyComplete
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\refint\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\ref\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.deps.json
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\bin\Debug\net5.0\cadastroClientes.Infra.Data.Entities.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.csproj.AssemblyReference.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.AssemblyInfoInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.AssemblyInfo.cs
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.csproj.CopyComplete
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\refint\cadastroClientes.Infra.Data.dll
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\cadastroClientes.Infra.Data.pdb
+C:\PROJETOS\Cadastro de Clientes\cadastroClientes.solucao\cadastroClientes.Infra.Data\obj\Debug\net5.0\ref\cadastroClientes.Infra.Data.dll
